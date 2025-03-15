@@ -38,6 +38,3 @@ To run this project, you'll need the following installed on your machine:
 
    The application will open in your default browser at `http://localhost:3000`.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
